@@ -1,0 +1,7 @@
+elements.man = {
+    color: "#FFD700",
+    behavior: behaviors.HUMAN,
+    category: "life",
+    state: "solid",
+    density: 1200
+};
